@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Save Cortex Dump
-// @description Save Cortex JSON easily
-// @version     1.0
+// @description Save Cortex JSON data easily to facilitate easier excel file integration. 
+// @version     1.2
 // @author      athurst@amazon.com
 // @license     Unlicense
 // @match        https://*logistics.amazon.com/operations/execution/api/*
