@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name        Save Cortex Dump
-// @name:en     Save Cortex Dump
 // @description Save Cortex JSON easily
 // @version     1.0
-// @author      athurst
+// @author      athurst@amazon.com
 // @license     Unlicense
 // @match        https://*logistics.amazon.com/operations/execution/api/*
 // @grant       GM_xmlhttpRequest
 // @noframes
 // ==/UserScript==
+
 "use strict";
 
 const { addFloatButton, fetchex } = {
