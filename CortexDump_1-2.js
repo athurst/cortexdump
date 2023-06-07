@@ -4,6 +4,7 @@
 // @version     1.2
 // @author      athurst@amazon.com
 // @updateURL   https://github.com/athurst/cortexdump/releases/latest/cortexdump.user.js
+// @downloadURL   https://github.com/athurst/cortexdump/releases/latest/cortexdump.user.js
 // @license     Unlicense
 // @match        https://*logistics.amazon.com/operations/execution/api/*
 // @grant       GM_xmlhttpRequest
